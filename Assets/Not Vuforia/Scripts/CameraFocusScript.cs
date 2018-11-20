@@ -1,4 +1,6 @@
-﻿using System.Collections;
+/*Copyright 2017, John Winship, All Rights Reserved*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Vuforia;
